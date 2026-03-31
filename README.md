@@ -38,7 +38,7 @@ The design covers the following topics:
 I created the infographic using Canva and designed it in a simple and clear format so that it can be easily understood by first-year students. This task helped me understand that digital literacy is not only about using technology, but also about using it safely, responsibly, and effectively.
 
 Task 1 File:  
-`task-1-presentation/digital-literacy-infographic.png`
+`Task 1/Infographic Task 1.png`
 
 ---
 
